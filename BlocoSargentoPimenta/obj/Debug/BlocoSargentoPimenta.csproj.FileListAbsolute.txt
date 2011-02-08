@@ -1,0 +1,5 @@
+c:\users\alberto chvaicer\documents\visual studio 2010\Projects\BlocoSargentoPimenta\BlocoSargentoPimenta\bin\BlocoSargentoPimenta.dll
+c:\users\alberto chvaicer\documents\visual studio 2010\Projects\BlocoSargentoPimenta\BlocoSargentoPimenta\bin\BlocoSargentoPimenta.pdb
+c:\users\alberto chvaicer\documents\visual studio 2010\Projects\BlocoSargentoPimenta\BlocoSargentoPimenta\obj\Debug\ResolveAssemblyReference.cache
+c:\users\alberto chvaicer\documents\visual studio 2010\Projects\BlocoSargentoPimenta\BlocoSargentoPimenta\obj\Debug\BlocoSargentoPimenta.dll
+c:\users\alberto chvaicer\documents\visual studio 2010\Projects\BlocoSargentoPimenta\BlocoSargentoPimenta\obj\Debug\BlocoSargentoPimenta.pdb

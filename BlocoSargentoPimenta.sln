@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlocoSargentoPimenta", "BlocoSargentoPimenta\BlocoSargentoPimenta.csproj", "{8A8A8C92-9BCA-4ABC-9822-3B55270F882E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A8A8C92-9BCA-4ABC-9822-3B55270F882E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8A8C92-9BCA-4ABC-9822-3B55270F882E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8A8C92-9BCA-4ABC-9822-3B55270F882E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8A8C92-9BCA-4ABC-9822-3B55270F882E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
