@@ -8,4 +8,6 @@
 
     <h2>Curiosidades</h2>
 
+    <p>Em breve</p>
+
 </asp:Content>

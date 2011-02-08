@@ -8,4 +8,5 @@
 
     <h2>Galeria</h2>
 
+    <p>Em breve</p>
 </asp:Content>

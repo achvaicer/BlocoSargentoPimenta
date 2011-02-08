@@ -8,6 +8,6 @@
 
     <h2>Novidades e Programacao</h2>
 
-    <p>Conteúdo aqui</p>
+    <p>Em breve</p>
 
 </asp:Content>
