@@ -20,13 +20,13 @@
                 
                 <ul id="menu">
                     
-                    <li><%: Html.ActionLink("Home", "Index", "Home")%></li>
-                    <li><%: Html.ActionLink("Quem Somos", "QuemSomos", "Home")%></li>
-                    <li><%: Html.ActionLink("Novidades e Programação", "NovidadesProgramacao", "Home")%></li>
-                    <li><%: Html.ActionLink("Galeria", "Galeria", "Home")%></li>
-                    <li><%: Html.ActionLink("Hino e Letras", "HinoLetras", "Home")%></li>
-                    <li><%: Html.ActionLink("Curiosidades sobre os Beatles", "Curiosidades", "Home")%></li>
-                    <li><%: Html.ActionLink("Contato", "Contato", "Home")%></li>
+                    <li><%= Html.ActionLink("Home", "Index", "Home")%></li>
+                    <li><%= Html.ActionLink("Quem Somos", "QuemSomos", "Home")%></li>
+                    <li><%= Html.ActionLink("Novidades e Programação", "NovidadesProgramacao", "Home")%></li>
+                    <li><%= Html.ActionLink("Galeria", "Galeria", "Home")%></li>
+                    <li><%= Html.ActionLink("Hino e Letras", "HinoLetras", "Home")%></li>
+                    <li><%= Html.ActionLink("Curiosidades", "Curiosidades", "Home")%></li>
+                    <li><%= Html.ActionLink("Contato", "Contato", "Home")%></li>
                 </ul>
                 
             </div>
